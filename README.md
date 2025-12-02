@@ -40,14 +40,6 @@
   <img src="https://skillicons.dev/icons?i=python,linux,bash,nmap,wireshark,php,git,github&perline=9" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abdulkadir-ipek&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10"  width="47%"/>
-  <img src="https://streak-stats.demolab.com?user=abdulkadir-ipek&theme=tokyonight&hide_border=true&border_radius=10"  width="47%"/>
-</p>
 
 ---
 
