@@ -25,11 +25,11 @@
 ## ✨ About Me
 
 ```diff
-+ 🎓 2nd-year Computer Engineering student @ Hitit University
++ 🎓 3th-year Computer Engineering student @ Hitit University
++ 🤖 Machine Learning · Deep Learning · Artificial Intelligence
 + 🛡️ Pentesting · Cybersecurity · Network Security
-+ 🤖 Machine Learning
 + 🐍 Python, C#, HTML/CSS/JS, PHP
-+ 🚀 Always Learning | Always Hacking
++ 🚀 Always Learning
 ```
 
 ---
@@ -46,5 +46,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/abdulkadir-ipek/abdulkadir-ipek/blob/output/github-snake-dark.svg" />
+  <img src="https://github.com/abdulkadiripek/abdulkadiripek/blob/output/github-snake-dark.svg" />
 </p>
