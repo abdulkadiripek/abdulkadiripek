@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/abdulkadiripek/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=abdulkadiripek&style=for-the-badge&label=Profile+Views&color=00FFC0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abdulkadiripek&style=for-the-badge&label=Profile+Views&color=000000" alt="Profile Views" />
 </div>
 
 ---
@@ -61,13 +61,5 @@ I am a 3rd-year Computer Engineering student. I am deeply passionate about **Art
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulkadiripek&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadiripek&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdulkadiripek/abdulkadiripek/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
