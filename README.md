@@ -25,8 +25,7 @@ I am a 3rd-year Computer Engineering student. I am deeply passionate about **Art
 
 - 🔭 Currently focusing on **AI/ML/DL and Cybersecurity** projects.
 - 🌱 Constantly learning and exploring new technologies to improve my skills.
-- ⚡ In my free time, I enjoy photography, game development (Unity), and playing video games.
-
+  
 ---
 
 ## 🛠️ Tech Toolbox
